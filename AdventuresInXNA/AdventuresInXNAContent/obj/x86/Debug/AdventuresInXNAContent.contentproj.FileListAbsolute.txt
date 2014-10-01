@@ -1,0 +1,1 @@
+c:\users\alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNAContent\obj\x86\Debug\AdventuresInXNAContent.contentprojResolveAssemblyReference.cache

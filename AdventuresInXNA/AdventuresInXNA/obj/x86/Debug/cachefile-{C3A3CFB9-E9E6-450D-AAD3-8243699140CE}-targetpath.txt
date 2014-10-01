@@ -1,0 +1,8 @@
+Content\Fonts\Georgia_16.xnb
+Content\Fonts\Centaur_10.xnb
+Content\GFX\Owlbear.xnb
+Content\GFX\menu1.xnb
+Content\GFX\World\tileset.xnb
+Content\GFX\Avatars\Pirate.xnb
+Content\Sounds\Enthalpy.xnb
+Content\Sounds\Enthalpy.wma

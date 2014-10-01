@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Georgia_16.spritefont</Source>
+      <Name>Fonts\Georgia_16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\Fonts\Georgia_16.xnb</Output>
+      <Time>2014-09-19T12:16:09.2186137-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Centaur_10.spritefont</Source>
+      <Name>Fonts\Centaur_10</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\Fonts\Centaur_10.xnb</Output>
+      <Time>2014-09-19T12:29:03.726913-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\Owlbear.png</Source>
+      <Name>GFX\Owlbear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\GFX\Owlbear.xnb</Output>
+      <Time>2014-09-19T12:46:10.166622-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\menu1.png</Source>
+      <Name>GFX\menu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\GFX\menu1.xnb</Output>
+      <Time>2014-09-20T10:39:56.6405052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\World\tileset.png</Source>
+      <Name>GFX\World\tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\GFX\World\tileset.xnb</Output>
+      <Time>2014-09-21T11:48:19.8750067-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\Avatars\Pirate.png</Source>
+      <Name>GFX\Avatars\Pirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\GFX\Avatars\Pirate.xnb</Output>
+      <Time>2014-09-26T13:43:03.515806-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Enthalpy.wav</Source>
+      <Name>Sounds\Enthalpy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\Sounds\Enthalpy.xnb</Output>
+      <Extra>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\Sounds\Enthalpy.wma</Extra>
+      <Time>2014-09-30T12:12:32.3686531-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C3A3CFB9-E9E6-450D-AAD3-8243699140CE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alex\documents\visual studio 2012\Projects\AdventuresInXNA\AdventuresInXNA\AdventuresInXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-19T11:22:57.3120471-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
